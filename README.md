@@ -33,9 +33,10 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 Page 1
 index.html
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -132,7 +133,7 @@ style.css
 page2
 index.html
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -231,7 +232,6 @@ style.css
 page 3
 index.html
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -412,7 +412,7 @@ style.css
   line-height: 32.4px;
   white-space: nowrap;
 }
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (41).png>)
